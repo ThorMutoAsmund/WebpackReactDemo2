@@ -10,9 +10,9 @@ class Layout extends React.Component {
             <div>
                 <h3>It works really well! I think so</h3>
                 <table>
-                <tbody>
-                <tr><td>HEY</td></tr>
-                </tbody>
+                  <tbody>
+                    <tr><td>Hello World!</td></tr>
+                  </tbody>
                 </table>
             </div>
         );
